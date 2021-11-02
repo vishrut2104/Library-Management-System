@@ -1,0 +1,94 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #2980B9, #6DD5FA, #FFFFFF);
+}
+
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+    
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+
+}
+
+div.inventory{
+    background-color: rgba(0,0,0,0.5);
+    width:100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    color: #fff;
+}
+
+form#inventory{
+    margin:40px;
+}
+
+label{
+    font-size: 18px;
+    font-style:italic;
+}
+
+.inp{
+    width:300px;
+    border: 1px;
+    border-radius: 3px;
+    outline: 0;
+    padding : 7px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+
+}
+
+.submit{
+   
+    background-color: #008CBA;
+    color: white;
+    text-decoration: none;
+    display:block;
+    margin: 0 auto;
+    width:120px;
+    height: 40px;
+   
+    font-family: sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px;
+    border-radius: 3px;
+    outline: 0;
+    padding : 10px;
+    background-color: #4CAF50;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+
+span{
+    font-size: 15px;
+}
+
+
+div#login a:link a:visited {
+    color:#fff ;
+    
+    
+}
+

@@ -1,0 +1,74 @@
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\mini_project.dll.config
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\mini_project.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\mini_project.pdb
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Antlr3.Runtime.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.Core.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\EntityFramework.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\EntityFramework.SqlServer.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\System.Web.Optimization.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\System.Web.Providers.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\WebGrease.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\EntityFramework.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\EntityFramework.SqlServer.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\System.Web.Providers.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.Core.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\obj\Debug\mini_project.csprojResolveAssemblyReference.cache
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\obj\Debug\mini_project.dll
+C:\Users\vishr\Documents\Visual Studio 2013\Projects\mini_project\mini_project\obj\Debug\mini_project.pdb
+D:\dotnet\mini_project\mini_project\obj\Debug\mini_project.csprojResolveAssemblyReference.cache
+D:\dotnet\mini_project\mini_project\bin\mini_project.dll.config
+D:\dotnet\mini_project\mini_project\bin\mini_project.dll
+D:\dotnet\mini_project\mini_project\bin\mini_project.pdb
+D:\dotnet\mini_project\mini_project\bin\Antlr3.Runtime.dll
+D:\dotnet\mini_project\mini_project\bin\AspNet.ScriptManager.jQuery.dll
+D:\dotnet\mini_project\mini_project\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.AspNet.dll
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.Core.dll
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.OAuth.dll
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.OpenId.dll
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\dotnet\mini_project\mini_project\bin\EntityFramework.dll
+D:\dotnet\mini_project\mini_project\bin\EntityFramework.SqlServer.dll
+D:\dotnet\mini_project\mini_project\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\dotnet\mini_project\mini_project\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\dotnet\mini_project\mini_project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\dotnet\mini_project\mini_project\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\dotnet\mini_project\mini_project\bin\Microsoft.ScriptManager.WebForms.dll
+D:\dotnet\mini_project\mini_project\bin\Microsoft.Web.Infrastructure.dll
+D:\dotnet\mini_project\mini_project\bin\System.Web.Optimization.dll
+D:\dotnet\mini_project\mini_project\bin\System.Web.Providers.dll
+D:\dotnet\mini_project\mini_project\bin\WebGrease.dll
+D:\dotnet\mini_project\mini_project\bin\EntityFramework.xml
+D:\dotnet\mini_project\mini_project\bin\EntityFramework.SqlServer.xml
+D:\dotnet\mini_project\mini_project\bin\System.Web.Providers.xml
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.Core.xml
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.OAuth.xml
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.OpenId.xml
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\dotnet\mini_project\mini_project\bin\DotNetOpenAuth.AspNet.xml
+D:\dotnet\mini_project\mini_project\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\dotnet\mini_project\mini_project\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\dotnet\mini_project\mini_project\obj\Debug\mini_project.dll
+D:\dotnet\mini_project\mini_project\obj\Debug\mini_project.pdb

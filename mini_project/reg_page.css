@@ -1,0 +1,96 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+    display: flex;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #D16BA5, #86A8E7,#5FFBF1);
+}
+
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+
+}
+
+div.registration{
+    background-color: rgba(0,0,0,0.5);
+    width:100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    color: #fff;
+}
+
+form#register{
+    margin:40px;
+}
+
+label{
+    font-size: 18px;
+    font-style:italic;
+}
+
+.inp{
+    width:300px;
+    border: 1px;
+    border-radius: 3px;
+    outline: 0;
+    padding : 7px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+
+}
+
+.submit{
+   
+    color: white;
+    display:block;
+    margin: 0 auto;
+    width:120px;
+    height: 40px;
+    background-color: #4CAF50;
+    font-family: sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px;
+    border-radius: 3px;
+    outline: 0;
+    padding : 10px;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+
+span{
+    font-size: 15px;
+}
+
+.radio{
+    font-family: Poppins;
+    font-weight: 300;
+    color: black;
+    width:inherit;
+    font-size: 7px;
+    border: 5px;
+    border-radius: 3px;
+    padding : 10px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+}

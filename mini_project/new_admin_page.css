@@ -1,0 +1,159 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+
+
+* {
+    
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+
+    height: 5000vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #2C3E50, #FD746C);
+}
+
+
+
+div.main{
+
+    
+    width: 296px;
+    margin: 100px 0px 0px 0px;
+    height: 600px;
+    display: inline-grid;
+    grid-template-columns: 100px 300px 300px;
+    
+}
+
+h2 {
+    text-align: center;
+     padding: 20px 20px 10px 20px;
+}
+
+
+h4 {
+    text-align: center;
+    padding: 10px 20px 20px 20px;
+   
+}
+
+div.login{
+   
+    background-color: rgba(0,0,0,0.5);
+    width:300px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    color: #fff;
+    height: 800px;
+    margin-left: 50px;
+}
+
+form#login{
+    margin:40px;
+}
+
+label{
+    font-size: 18px;
+    font-style:italic;
+}
+
+.inp{
+    width:300px;
+    border: 1px;
+    border-radius: 3px;
+    outline: 0;
+    padding : 7px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+
+}
+
+.submit{
+   
+    background-color: #008CBA;
+    color: white;
+    text-decoration: none;
+    display:grid;
+    margin: 0 auto;
+    width:120px;
+    height: 40px;
+   
+    font-family: sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px;
+    border-radius: 3px;
+    outline: 0;
+    padding : 10px;
+    background-color: #008CBA;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+
+
+
+div#login a:link a:visited {
+    color:#fff ;
+    
+    
+}
+
+
+
+hr{
+    border: 1px dotted #fff;
+    border-style: none none dotted; 
+    color: #fff; 
+    background-color: #fff;
+    
+    
+}
+
+.header
+{
+background-color: #646464;
+font-family: Arial;
+color: White;
+border: none 0px transparent;
+height: 25px;
+text-align: center;
+font-size: 16px;
+}
+
+
+
+
+.main .grid {
+    color: black;
+    width: 300px;
+    margin-top: 0px;
+    margin-left:600px;
+    float: left;
+    height: 400px;
+}
+
+.main .grid2 {
+    
+    margin-top: 500px;
+    color: black;
+    margin-left:300px;
+    width: 300px;
+    float: right;
+    height: 400px;
+}
+
+
+.rows:hover
+{
+background-color: #ff8000;
+font-family: Arial;
+color: #fff;
+text-align: left;
+}

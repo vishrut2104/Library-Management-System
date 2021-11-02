@@ -1,0 +1,104 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+    
+    height: 100vh;
+   
+    
+    background: linear-gradient(135deg, #2C3E50, #FD746C);
+}
+
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+    
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+
+}
+
+div.login{
+    background-color: rgba(0,0,0,0.5);
+    width:100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    color: #fff;
+}
+
+form#login{
+    margin:40px;
+}
+
+label{
+    font-size: 18px;
+    font-style:italic;
+}
+
+.inp{
+    width:300px;
+    border: 1px;
+    border-radius: 3px;
+    outline: 0;
+    padding : 7px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+
+}
+
+.submit{
+   
+    background-color: #008CBA;
+    color: white;
+    text-decoration: none;
+    
+    margin: 0 auto;
+    width:120px;
+    height: 40px;
+   
+    font-family: sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px;
+    border-radius: 3px;
+    outline: 0;
+    padding : 10px;
+    background-color: #008CBA;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+
+span{
+    font-size: 15px;
+}
+
+
+
+
+
+nav ul li{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float:left;
+  width: 200px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    line-height: 50px;
+}
